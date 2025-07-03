@@ -2,7 +2,7 @@
   <img src="https://github.com/kvm-i7/.github/blob/main/profile/logo.png?raw=true" alt="KVM-i7 Logo" width="150">
 </p>
 
-<h1 align="center">Official KVM-i7 Web Panel</h1>
+<h1 align="center"><i>Unofficial</i> KVM-i7 Web Panel</h1>
 
 <p align="center">
   <strong>A lightweight, client-side web interface for managing your KVM-i7 VPS.</strong>
